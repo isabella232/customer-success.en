@@ -15,7 +15,7 @@ description: Learn the strategies and get expert advice to enable your success a
 + [Campaign - Maximize email ROI and best practices for subscriber re-engagement](campaign-maximize-email-best-practices.md)
 + [Experience Manager - Governance and staffing models and archetypes](experience-manager-governance-and-staffing-models.md)
 + [Best practices for optimization with Adobe Target](target-best-practices-for-optimization.md)
-+ [Quick start for personalization testing and roadmap creation](create-personalisation-roadmap-testing-plan.md)
++ [Quick start for personalization testing and roadmap creation](create-personalization-roadmap-testing-plan.md)
 + [Optimize your Adobe Target implementation](optimize-your-target-implementation.md)
 + [How to drive content velocity with Adobe Experience Manager](drive-content-velocity-for-sites.md)
 + [Accelerate content velocity with AEM style systems](accelerate-content-velocity-aem.md)
