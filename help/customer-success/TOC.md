@@ -5,7 +5,7 @@ breadcrumb-title: Shorter title (if necessary) that appears only in the breadcru
 user-guide-description: This is a description for the user guide that will be displayed on the landing page.
 description: 
 ---
-# Strategies for customer success {customer-success}
+# Strategies for customer success {#customer-success}
 
 + [Overview](/help/customer-success/overview.md)
 + [Adobe Masters Roundtable: Balance personalization and privacy](/help/customer-success/adobe-masters-roundtable-balancing-personalization.md)
