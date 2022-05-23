@@ -3,7 +3,7 @@ title: Adobe Analytics--simple hacks for greater efficiency and self-service
 description: Learn the key challenges analytics teams face today and our recommendations to overcome them using strategies outside the Adobe Analytics UI. 
 solution: Analytics
 ---
-## Adobe Analytics: Simple hacks for greater efficiency and self-service
+# Adobe Analytics: Simple hacks for greater efficiency and self-service
 
 **Part 1: Outside the UI**
 

@@ -34,7 +34,7 @@ _Figure 1 - Optimization Iterative Cycle_
 
 The process of developing an optimization strategy can be broken down into: (1) Build a Test Activity Plan and (2) Understand Optimization Basics.
 
-1) The Test Activity Plan should be documented. This ensures that you have a minimal standard of quality when it comes to your test activity application. Your Test Activity Plan should include:
+1: The Test Activity Plan should be documented. This ensures that you have a minimal standard of quality when it comes to your test activity application. Your Test Activity Plan should include:
 
 * **Name & Description:** Intuitive activity name and description of what the experiment is focused on. "How? What? When? Where? Why?"
 
@@ -69,19 +69,19 @@ A complete hypothesis has three parts:
 * Navigation taxonomy
 * Search emphasis
 
-2) The second stage of strategy is to Understand the Optimization Basics, which includes the understanding of testing elements themselves. The testing elements of Optimization include:
+2: The second stage of strategy is to Understand the Optimization Basics, which includes the understanding of testing elements themselves. The testing elements of Optimization include:
 
-A. Element Value
+    A. Element Value
 
-This is achieved by taking a step back to ask, why a certain element exists on your site, and does the content serve a specific purpose? These questions are a good place to start if your site just concluded a redesign, or if a new feature was recently rolled out. The tactic used to determine element value is referred to as Inclusion/Exclusion Testing. Inclusion/Exclusion Testing provides a good read of value on the page where the element is displayed.
+    This is achieved by taking a step back to ask, why a certain element exists on your site, and does the content serve a specific purpose? These questions are a good place to start if your site just concluded a redesign, or if a new feature was recently rolled out. The tactic used to determine element value is referred to as Inclusion/Exclusion Testing. Inclusion/Exclusion Testing provides a good read of value on the page where the element is displayed.
 
-B. Element Presentation
+    B. Element Presentation
 
-This is where you would think about the overall look and feel of the element and how that affects the overall page presentation. The tactic used for presentation is to focus on making impactful content and element page changes.
+    This is where you would think about the overall look and feel of the element and how that affects the overall page presentation. The tactic used for presentation is to focus on making impactful content and element page changes.
 
-C. Element Function
+    C. Element Function
 
-Here we ask, is the element on the page doing what it is supposed to do? Is the interaction successful and working as intended? Is the interaction natural, or a point of friction? The tactic used for function is to build experiences that are focused on easy-to-use functionality without additional cost impact.
+    Here we ask, is the element on the page doing what it is supposed to do? Is the interaction successful and working as intended? Is the interaction natural, or a point of friction? The tactic used for function is to build experiences that are focused on easy-to-use functionality without additional cost impact.
 
 ## Optimization vs Personalization
 
