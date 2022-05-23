@@ -6,15 +6,10 @@ user-guide-description: This is a description for the user guide that will be di
 description: 
 ---
 
-# Template title {#using}
+# Strategies for customer success {customer-success}
 
-+ [Overview](overview.md)
-
-<!--
-
-Articles must be added to this TOC file in order to render.
-
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-
-An article link CANNOT be used as a section heading.
--->
++ [Overview](/help/overview.md)
++ [Understanding Journey Orchestration](/help/understanding-journey-orchestration.md)
++ [Configure streaming events](/help/configuring-journey-orchestration/configure-streaming-events.md)
++ [Using segment qualification events](/help/using-segment-qualification-events.md)
++ [Configure data sources](/help/configuring-journey-orchestration/configure-data-sources.md)

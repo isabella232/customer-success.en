@@ -5,7 +5,7 @@ solution: Experience Manager
 ---
 # Accelerate content velocity with AEM style systems
 
-In this article, you learn how to use AEM Style Systems to empower designers, content authors, and developers in your organization to create and deliver experiences at the speed and scale that your customers expect.
+In this article, you learn how to use AEM-style systems to empower designers, content authors, and developers in your organization to create and deliver experiences at the speed and scale that your customers expect.
 
 ## Overview
 
