@@ -90,11 +90,11 @@ The following are role examples for a light (sports apparel company) and heavy (
 
 1. Strategy and Transformation
 
-Role examples:
+   Role examples:
 
- * Development Team - provides AEM knowledge and executes new transformative milestones with the Technical Architect.
- * Technical Architect - provides integration knowledge, works with the Product Owner to map technical milestones and provides deep technical knowledge of AEM.
- * Business Architect - creates tasks for user stories and helps the Product Owner manage technical and business milestones.
+   * Development Team - provides AEM knowledge and executes new transformative milestones with the Technical Architect.
+   * Technical Architect - provides integration knowledge, works with the Product Owner to map technical milestones and provides deep technical knowledge of AEM.
+   * Business Architect - creates tasks for user stories and helps the Product Owner manage technical and business milestones.
 
 ### Sample Scenarios
 
