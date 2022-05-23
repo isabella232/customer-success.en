@@ -5,7 +5,7 @@ solution: Experience Manager
 ---
 # How to drive content velocity with Adobe Experience Manager
 
-As a Customer Experience leader, we know how challenging it can be for you to ensure you have the right framework and principles to drive content velocity – components essential to unlocking the true value of your Adobe Experience Manager platform. In this article, we'll review what content velocity is and its value within enterprise organizations. Next, we'll dive into four principles of effective implementation and the pitfalls to look out for along the way.
+As a Customer Experience leader, we know how challenging it can be for you to ensure you have the right framework and principles to drive content velocity--components essential to unlocking the true value of your Adobe Experience Manager platform. In this article, we'll review what content velocity is and its value within enterprise organizations. Next, we'll dive into four principles of effective implementation and the pitfalls to look out for along the way.
 
 ## Defining content velocity
 
@@ -13,7 +13,7 @@ Content velocity is not just a tool. Nor is it a feature.
 
 _Content velocity is the gas that powers the personalization vehicle. Content velocity is about simplifying and becoming more efficient, to be able to deliver personalized experiences at scale._ - Monique Misrahi from T-Mobile
 
-It is an overriding philosophy of content that embraces an enterprise-level framework touching every part of an enterprise organization—from creation, through management, to distribution.
+It is an overriding philosophy of content that embraces an enterprise-level framework touching every part of an enterprise organization--from creation, through management, to distribution.
 
 It involves developing an underlying "people architecture" that can be harnessed to reach maximum velocity, craft rich experiences, and achieve powerful efficiencies.
 
@@ -42,19 +42,19 @@ Problems you may encounter include:
 
 Tackling these simultaneously is daunting. On the other hand, trying to solve each piece-by-piece creates frustration, as each of the workstreams within the content lifecycle inevitably overlaps with the other.
 
-How does an individual stakeholder--from the creative, the technical, or the functional side—wade through the multiple layers of management, strategy, and administrative objectives? How does one abolish silos based on nascent and peripheral strategic objectives that might inform each other? How can they do so when this overlap might not be visible to the appropriate stakeholders?
+How does an individual stakeholder--from the creative, the technical, or the functional side--wade through the multiple layers of management, strategy, and administrative objectives? How does one abolish silos based on nascent and peripheral strategic objectives that might inform each other? How can they do so when this overlap might not be visible to the appropriate stakeholders?
 
 The answer: an individual stakeholder can't. When aligning the organization to the solution, the decision must be taken as a whole because it affects the entire team.
 
-More importantly, the spark of transformation has to fundamentally come from leadership. Only when leadership is invested in organizational change and can envision the tangible benefits of it, will the appropriate organizational design and processes—which are critical to harnessing an enterprise-level solution—be created.
+More importantly, the spark of transformation has to fundamentally come from leadership. Only when leadership is invested in organizational change and can envision the tangible benefits of it, will the appropriate organizational design and processes--which are critical to harnessing an enterprise-level solution--be created.
 
 This is because driving speed in enterprise-level CMS is ultimately about content. Content is intrinsically developed through a lifecycle, which touches all parts of the organization, and remains visible to leadership at all times.
 
-Over and over, we've seen that the journey from a siloed model to a flexible and fast one comes from that initial and powerful voice in leadership. An understanding that to approach content lifecycle in a way requires a re-imaging of it through the team—from creator to tester. And that decision point—that realization—that driving content is not a question of what tool, but how we're conceiving it.
+Over and over, we've seen that the journey from a siloed model to a flexible and fast one comes from that initial and powerful voice in leadership. An understanding that to approach content lifecycle in a way requires a re-imaging of it through the team--from creator to tester. And that decision point--that realization--that driving content is not a question of what tool, but how we're conceiving it.
 
-"When you start to think about content in a different way, you bring different groups to the table that may not have been together. From product and development to customer led experience design, you innately have different parties to build those things. For us, internally, leadership support and buy-in was the single greatest factor for our digital transformation." –Monique Misrahi, T-Mobile
+"When you start to think about content in a different way, you bring different groups to the table that may not have been together. From product and development to customer led experience design, you innately have different parties to build those things. For us, internally, leadership support and buy-in was the single greatest factor for our digital transformation." - Monique Misrahi, T-Mobile
 
-"Leadership support, direction, and vision was a critical factor. The fantastic thing was that our leadership was inclusive and open to input. They listened." – Amy Bergstrom, Deloitte
+"Leadership support, direction, and vision was a critical factor. The fantastic thing was that our leadership was inclusive and open to input. They listened." - Amy Bergstrom, Deloitte
 
 ### Foundation
 
@@ -79,9 +79,9 @@ For many customers the best way to instill change is to create a mini site, a br
 * Increase the likelihood and speed of stakeholder buy-in
 * Solve the tactical nuts and bolts, and alleviate the gaps before reapplying the changes to scale
 
-"We changed our experience design organization to a more omni-channel view of the customer. We built a design systems framework team that is fully defining what our content components will be and how they'll be used. This has helped us get to a level of content velocity we couldn't imagine before." –Monique Misrahi, T-Mobile
+"We changed our experience design organization to a more omni-channel view of the customer. We built a design systems framework team that is fully defining what our content components will be and how they'll be used. This has helped us get to a level of content velocity we couldn't imagine before." - Monique Misrahi, T-Mobile
 
-"We knew there was too much content coming out. So we did some research with our audience to find out if they were able to find our thought leadership pieces. It turned out there was confusion, so we took a unique approach, segmenting out all the best thinking in a pilot site and branding that content. We created a dedicated area for that content and cultivated a large audience for it. Several years later, we've now been able to reintegrate that into our broader website and now our thought leadership content helps carry people through the sales cycle." – Amy Bergstrom, Deloitte
+"We knew there was too much content coming out. So we did some research with our audience to find out if they were able to find our thought leadership pieces. It turned out there was confusion, so we took a unique approach, segmenting out all the best thinking in a pilot site and branding that content. We created a dedicated area for that content and cultivated a large audience for it. Several years later, we've now been able to reintegrate that into our broader website and now our thought leadership content helps carry people through the sales cycle." - Amy Bergstrom, Deloitte
 
 ### Execution
 
@@ -97,11 +97,11 @@ Here are four milestones to build out during the execution phase:
 
     At this point, consider whether you want a centralized governance model or a decentralized one.On one hand, a centralized governance model creates a consolidated taxonomic strategy offering tighter quality control and process insights that would be impossible, or at the very least difficult in a decentralized framework.
 
-    On the other hand, a centralized model, especially if coming from an authoring experience that is currently overly flexible, may be too big a hurdle for the team. The structure must allow for common language and regional differentiators as well as practices around quality control. Additionally, there may be less autonomy for each facet of the authoring experience – that is, only certain authors will be allowed to work on specific groups of pages and only limited authors have editable permissions.
+    On the other hand, a centralized model, especially if coming from an authoring experience that is currently overly flexible, may be too big a hurdle for the team. The structure must allow for common language and regional differentiators as well as practices around quality control. Additionally, there may be less autonomy for each facet of the authoring experience--that is, only certain authors will be allowed to work on specific groups of pages and only limited authors have editable permissions.
 
     Although initially a centralized mode of governance may seem slower, in the end, with the process insights gathered, and the transparent accountability across business users that is instigated, the overall trajectory will be quicker.
 
-    The decision on which direction to go will ultimately depend on the overall strategic goal of the organization. It may come down to choosing between enhancedflexibility for business users or a unified experience across brands. Aligning on the proper model is critical for a sound execution.
+    The decision on which direction to go will ultimately depend on the overall strategic goal of the organization. It may come down to choosing between enhanced flexibility for business users or a unified experience across brands. Aligning on the proper model is critical for a sound execution.
 
 1. **Perform a content ownership audit**
   
@@ -129,11 +129,9 @@ Here are four milestones to build out during the execution phase:
 
     Look to create a team with clear usage guidelines as opposed to designing for the "edge." Beautiful simplicity is at the heart of content velocity. And don't forget to include Accessibility teams for everything that is designed and developed. A design system needs to find that balance between meeting a very particular experience and the flexibility to work in a systematic way within an enterprise CMS. Core Components and Style Systems are incredibly adaptive to a myriad of experiences and will allow more than enough freedom to meet the aesthetic ambitions of creators. Still, it is critical for speed and scale that a commonsense approach is applied when determining the execution of an experience. Some juggling of priorities is necessary. When designing a system look toward the fundamentals of reusability and speed.The vast majority of the experiences on a site should be executed using OOTB components and style systems.
 
-    "Mindset shift is needed around content. Many content practitioners have worked through the lens of channel-specific, or brand-specific, or page-specific content for their career. It's time to think holistically and allow time for that exploration." – Monique Misrahi, T-Mobile
+    "Mindset shift is needed around content. Many content practitioners have worked through the lens of channel-specific, or brand-specific, or page-specific content for their career. It's time to think holistically and allow time for that exploration." - Monique Misrahi, T-Mobile
 
-    "Having a centralized content strategy helps us avoid duplication. We're not oversaturating the market, not saying different things on similar topics. It helps us optimize our full library of content, and speak with one consistent voice around the world."
-
-    –Amy Bergstrom, Deloitte
+    "Having a centralized content strategy helps us avoid duplication. We're not oversaturating the market, not saying different things on similar topics. It helps us optimize our full library of content, and speak with one consistent voice around the world." - Amy Bergstrom, Deloitte
 
 ## Recommended practices: Fast, reusable content creation model
 
@@ -168,6 +166,6 @@ Here are a few potential pitfalls to avoid:
   * Are we maximizing organic reach?
 * Is the experience accessible for everyone?
 
-* Viewing solutions in a siloed manner – For example, focusing solelyon the technical aspect of AEM implementation will not realize the full business benefits. Instead, we recommendlooking at business use cases and scenarios, then pivoting to architecture and design, as this will provide a greater view of AEM capabilities. Anurandha Pentareddy from Adobe shares: "One thing I advise is to look at your value objectives up front for the platform you are implementing."
+* Viewing solutions in a siloed manner. For example, focusing solelyon the technical aspect of AEM implementation will not realize the full business benefits. Instead, we recommendlooking at business use cases and scenarios, then pivoting to architecture and design, as this will provide a greater view of AEM capabilities. Anurandha Pentareddy from Adobe shares: "One thing I advise is to look at your value objectives up front for the platform you are implementing."
 
 For a more in-depth discussion of content velocity, listen to this one-hour panel discussion featuring Monique Misrahi (T-Mobile), Amy Bergstrom (Deloitte), and Adobe's Anuradha Pentareddy: [https://primetime.bluejeans.com/a2m/events/playback/e63686d4-158f-4f73-aea0-f03ebee4606d]
