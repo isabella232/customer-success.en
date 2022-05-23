@@ -11,9 +11,9 @@ As a customer experience leader, Adobe understands how challenging it can be for
 
 To be able to run and operate AEM consider the following elements:
 
-- Execute Strategic Milestones - There are going to be many strategic milestones, (personalization, multi-channel integration, etc.) that cannot be executed unless you have the right staffing model in place.
-- Create a foundation for digital transformation - AEM is often used as the first step in an organization's modernization process. Setting a foundation allows you to leverage AEM to its full capacity.
-- User engagement - Have a team in place to execute tactical work (update workflows, permissions, CSS, etc.) The more you have gaps between what users want and what they are given, the more frustrated they can become. It is important to keep users invested in the system, invested in the solution, and that you have the right operating model in place.
+* Execute Strategic Milestones - There are going to be many strategic milestones, (personalization, multi-channel integration, etc.) that cannot be executed unless you have the right staffing model in place.
+* Create a foundation for digital transformation - AEM is often used as the first step in an organization's modernization process. Setting a foundation allows you to leverage AEM to its full capacity.
+* User engagement - Have a team in place to execute tactical work (update workflows, permissions, CSS, etc.) The more you have gaps between what users want and what they are given, the more frustrated they can become. It is important to keep users invested in the system, invested in the solution, and that you have the right operating model in place.
 
 What then, is the right model? What is the right matrix of roles to create?
 
