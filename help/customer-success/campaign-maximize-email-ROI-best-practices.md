@@ -78,7 +78,7 @@ Unfortunately, most subscribers who experience email fatigue, won't make it easy
 
 With that in mind, here are some best practices for keeping your subscribers engaged and anticipating the type of content they want to receive, in order to avoid unsubscribes and inactive audiences.
 
-### 1. Create a Strategy for Email Frequency**
+### 1. Create a Strategy for Email Frequency
 
 Unfortunately, there is no right answer on how many emails to send per week. To find the right number you need to factor in the following things:
 
