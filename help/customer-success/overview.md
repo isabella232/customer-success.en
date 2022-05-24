@@ -7,7 +7,7 @@ description: Learn the strategies for success when leading business that is powe
 
 This guide offers the strategies and expert advice to enable your success as a business leader. Learn how to increase team efficiency and unlock the power of Adobe Experience Cloud applications and services in your organization.
 
-Learn about: 
+Learn about:
 
 * Building highly effective teams in an ever-changing tech landscape.
 * Leveraging artificial intelligence and machine learning (AI/ML). See the benefits of real-world success stories from global .customers using Virtual Analyst and Segment IQ to maximize ROI
