@@ -31,11 +31,11 @@ Analytics is challenging and time-consuming, yet there is a constant need to acc
 * Limited technical expertise - can knowledge be shared and data democratized
 * Customer expectations - can your team react dynamically to customer behaviors changes
 
-## Master Customer Intelligence with Virtual Assistant, powered by Adobe Sensei
+## Master customer intelligence with Virtual Assistant, powered by Adobe Sensei
 
 ![Customer Intelligence](assets/customer-intelligence.png)
 
-### 3 Levels of Customer Intelligence
+### 3 Levels of customer intelligence
 
 When it comes to a successful customer intelligence strategy, we need to move through three levels (see Figure 1 above) from: (a) data collection, to (b) data processing, to (c) analytics and machine learning, before we can finally take action and optimize our content and ads.
 
@@ -62,7 +62,7 @@ Think of the [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics
 * Make good marketing investments reliably and predictably
 * Keep up with and meeting / exceeding customer expectations
 
-### Real World Success
+### Real world success
 
 The virtual analyst uncovered the following scenarios for real Adobe customers:
 
@@ -76,7 +76,7 @@ Coupon Fraud - Identified an 81% spike in orders caused by traffic referred by t
 
 Corporate Espionage - 200% increase in visits caused by bot/crawler created by their main competitor to scrape content off their site for reuse. These IPs were able to be blocked.
 
-## Adobe Analytics Capabilities
+## Adobe Analytics capabilities
 
 [Anomaly Detection](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
 
@@ -106,7 +106,7 @@ Stay informed of anomalies within your data at all times - whether you're in the
 * Get reports and visualizations within seconds to minutes that display commonalities across dimensions, metrics and other segments
 * Improve engagement with high-value customers
 
-## Real-World Success with Segment IQ**
+## Real-world success with Segment IQ
 
 Mobile vs Desktop: &quot;We compared hits from one of our sites to another site and quickly found a bunch of tagging inconsistencies.&quot; → Avoid data problems before a product release
 
@@ -118,4 +118,4 @@ Paid Search: &quot;Visitors coming from search engines were 3x more likely to up
 
 Product Stock-Out: &quot;People buying Fitbits were 6x more likely to get an 'out of stock' than everyone else, so we quickly ordered more Fitbits.&quot; → Stock-outs prevented and more holiday orders completed
 
-For more information watch our webinar here: [https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)
+For more information watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).

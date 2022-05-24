@@ -9,7 +9,7 @@ solution: Analytics
 
 In this article describes key challenges analytics teams face today and our recommendations to overcome them using strategies outside the Adobe Analytics UI. For more information on in-tool strategies / live demo, click here: [link to demo or additional article with in-tool strategies]
 
-## Key Challenges for Analytics Teams
+## Key challenges for Analytics teams
 
 Many Analytics teams find themselves with an imbalanced distribution of work. Instead of a mix of 80% analysis and 20% implementation, numerous organizations find themselves in the inverse of that, with the majority of their efforts spent setting up, reporting, and providing support as opposed to producing analysis that drives high value insights.
 

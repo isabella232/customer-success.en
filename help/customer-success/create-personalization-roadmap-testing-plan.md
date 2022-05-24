@@ -77,6 +77,6 @@ Leveraging the documentation created to strategize the personalization use case,
 
 Once your personalization activity has engaged a representative sample of visitors, you can begin analysis leveraging the insights to guide next steps. Be data driven in your analysis, tying recommendations to your use case hypothesis, and clearly illustrating the impact on business objectives.
 
-**Further Information**
+### More information
 
 We recommend that you watch this video which discusses each of these steps: [https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/](https://adobecustomersuccess.adobeconnect.com/pvsqvdvunpai/)

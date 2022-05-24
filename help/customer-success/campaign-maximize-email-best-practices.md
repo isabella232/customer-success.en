@@ -13,18 +13,18 @@ There can be confusion between the terms delivery and deliverability. Deliverabi
 
 How well is your organization tracking the deliverability of your email campaigns and do you know where your emails are ending up?
 
-## Spam Filtering
+## Spam filtering
 
 Before diving into strategy, it's important to ensure you are aware of the most common spam filter issues that could be affecting your campaign results. If you continue sending to subscribers that are inactive, that are not opening your emails, for over a year, these are some things you may be running into.
 
-* Blocklists and safelists
+* Blocklists and allowlists
 * Content Filters
 * IP and domain reputation
 * Authentication
 * Complaints
 * User actions
 
-## Maximize Your Email ROI
+## Maximize your email ROI
 
 Did you know in just one minute on the internet, there are over 1 million video views, 2 million Google search queries, 6 million Facebook views and 200 million emails sent? With so much going on, it's important to make sure your content doesn't get lost in the noise. Particularly if you are creating a campaign during a holiday season, it's even more challenging to get your emails in front of prospective and returning customers.
 
@@ -32,7 +32,7 @@ From November through early January, the volume of marketing emails being sent i
 
 Here are four key strategies to maximize your ROI:
 
-### 1. Prepare Your Content Calendar
+### 1. Prepare your content calendar
 
 * ISPs track your average send from an IP address, so distribute the volume as much as possible to avoid creating a red flag and getting sent to spam
 * Set up your content calendar in advance and prepare your content authors for an increase in sending volume
@@ -59,12 +59,12 @@ Here are four key strategies to maximize your ROI:
   * This helps ensure subscribers aren't blindsided by new content and don't unsubscribe or mark as spam.
   * Welcome emails are also a good indicator of performance: If they aren't being successfully delivered or interacted with, you know it's a sign of poor performance or poor data collection.
 
-### 4. Email Management
+### 4. Email management
 
 * Segment your subscribers and monitor where they are in your brand lifecycle
 * Use content personalization strategies to improve the relevancy of your emails
 
-## How to Increase Email Engagement &amp; Solve Email Fatigue
+## How to increase email engagement & solve email fatigue
 
 Email fatigue occurs when your subscribers get tired of receiving your email messages. This can happen for a number of reasons; maybe they've been on your list for too long and are tired of hearing from you or your latest content is no longer relevant. It is up to you and your team to pinpoint which customers are experiencing email fatigue and why. So, what are the signs to look out for?
 
@@ -78,7 +78,7 @@ Unfortunately, most subscribers who experience email fatigue, won't make it easy
 
 With that in mind, here are some best practices for keeping your subscribers engaged and anticipating the type of content they want to receive, in order to avoid unsubscribes and inactive audiences.
 
-### 1. Create a Strategy for Email Frequency
+### 1. Create a strategy for email frequency
 
 Unfortunately, there is no right answer on how many emails to send per week. To find the right number you need to factor in the following things:
 
@@ -102,7 +102,7 @@ For example, if you are emailing customers daily, they should have interacted wi
 
 For lapsed and inactive users, consider looking at the date the user subscribed to help determine their level of engagement. For instance, did they subscribe on the date of a competition or other marketing campaign? Did they sign up from a website pop-up with a discount offer? Once you have identified your lapsed and inactive users, it's important to change your strategy to try to improve their satisfaction and turn them back into an active subscriber.
 
-### 3. Implement Re-Engagement Strategies
+### 3. Implement re-engagement strategies
 
 Break down this process into two areas of focus: a) email sending patterns and b) the creative content of the emails themselves. Here is a look at each of these in more detail:
 
@@ -126,4 +126,4 @@ Break down this process into two areas of focus: a) email sending patterns and b
 
 * **Test and learn** - a good testing plan is important to make sure your efforts are having the desired effect. Learn what's working and what isn't and iterate accordingly.
 
-For a recap of this article and a live demo of implementing re-engagement strategies, watch our webinar here: [https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)
+For a recap of this article and a live demo of implementing re-engagement strategies, watch our [webinar](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
