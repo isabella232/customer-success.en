@@ -8,7 +8,7 @@ description: Learn the strategies and get expert advice to enable your success a
 
 + [Overview](overview.md)
 + [Adobe Masters Roundtable - Balance personalization and privacy](adobe-masters-roundtable-balancing-personalization.md)
-+ [Leading enterprise transformation](lead-enterprise-transformation.md)
++ [Leading a transformation in your enterprise](lead-enterprise-transformation.md)
 + [Analytics - Part one - Simple hacks for greater efficiency and self-service](analytics-simple-hacks-for-efficiency-part-one.md)
 + [Analytics - Part two - Simple hacks for greater efficiency and self-service](analytics-simple-hacks-for-efficiency-part-two.md)
 + [Analytics - Mastering customer intelligence with Virtual Analyst and Segment IQ](customer-intelligence-with-virtual-analyst.md)

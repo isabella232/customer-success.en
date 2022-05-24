@@ -1,13 +1,15 @@
 ---
 title: Leading enterprise transformation
-description: Six strategies for building highly effective teams in an ever-changing tech landscape 
+description: Six strategies for building highly effective teams in an ever-changing tech landscape. 
 solution: Experience Cloud
 ---
-# Leading enterprise transformation
+# Leading a transformation in your enterprise
 
-Six strategies for building highly effective teams in an ever-changing tech landscape
+Six strategies for building highly effective teams in an ever-changing tech landscape.
 
-As a transformational leader, we know how challenging it can be to build highly effective teams - from recruiting top talent and motivating employees, to managing meeting cadence, and leading agile product rollouts - it is a constantly evolving process with numerous considerations. In this article, we'll share thought leadership from two Adobe customers on best practices and key learnings from their own experience leading transformation during the COVID-19 pandemic.
+As a transformational leader, we know how challenging it can be to build highly effective teams - from recruiting top talent and motivating employees, to managing meeting cadence, and leading agile product rollouts - it is a constantly evolving process with numerous considerations. 
+
+In this article, we'll share thought leadership from two Adobe customers on best practices and key learnings from their own experience leading transformation during the COVID-19 pandemic.
 
 * Strategies for building highly effective teams in an evolving tech context
 * Managing global teams and the value of a center of excellence
