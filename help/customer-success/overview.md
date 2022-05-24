@@ -5,6 +5,8 @@ description: Learn the strategies for success when leading business that is powe
 
 # Strategies for customer success
 
+![Banner](assets/experience-cloud-banner-3.png)
+
 This guide offers the strategies and expert advice to enable your success as a business leader. Learn how to increase team efficiency and unlock the power of Adobe Experience Cloud applications and services in your organization.
 
 Learn about:
