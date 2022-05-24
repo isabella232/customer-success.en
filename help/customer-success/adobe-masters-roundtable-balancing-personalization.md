@@ -3,7 +3,7 @@ title: Adobe Masters Roundtable - Balancing Personalization and Privacy
 description: Learn how to successfully execute a data-driven personalization strategy, while navigating the complex and ever-evolving world of privacy compliance. 
 solution: Experience Cloud
 ---
-# Adobe Masters Roundtable: Balancing Personalization and Privacy
+# Adobe Masters Roundtable: Balancing personalization and privacy
 
 Learn how to successfully execute a data-driven personalization strategy, while navigating the complex and ever-evolving world of privacy compliance.
 
