@@ -7,11 +7,11 @@ solution: Experience Cloud
 
 Learn how to successfully execute a data-driven personalization strategy, while navigating the complex and ever-evolving world of privacy compliance.
 
-## Personalization & Privacy - A Delicate Balancing Act
+## Personalization & privacy - a delicate balancing act
 
 Theory is one thing, but to put these principles into practice is another. Below, we share insights from two Adobe customers who have masterfully implemented data-driven personalization strategies and navigated what can often be a delicate transformational process within their respective organizations.
 
-## How To Get Started
+## How to get started
 
 1. Get stakeholder buy-in
 
@@ -35,7 +35,7 @@ Theory is one thing, but to put these principles into practice is another. Below
 
    _"Regulation isn't a choice. We have to comply. More importantly, we have to use data properly. We can't degrade trust. Trust is critical in this day and age."_  - Richard George, Global Head of Integrated Marketing, London Stock Exchange Group
 
-## Leading Organizational Transformation
+## Leading organizational transformation
 
 When it comes to having a positive impact on your overall performance, it is crucial to consider organizational structure. Here are strategies to gain stakeholder buy-in and establish cross functional alignment.
 
@@ -53,7 +53,7 @@ When it comes to having a positive impact on your overall performance, it is cru
 
   _"The customer data platform ([CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en)) cleanses data, adds and enriches the data, and brings it together for a customer profile. You can plug it into your personalization tools and broader journey orchestration. Ours was really about how to create experiences from the CDP. Ultimately we aimed to create more holistic, integrated experiences we couldn't do when the data and channel platforms were siloed. This was a big opportunity for us."_ - Richard George, Global Head of Integrated Marketing, London Stock Exchange Group
 
-**Small Actions With Big Returns**
+### Small actions with big returns
 
 There are many facets to personalization strategy and even more with regard to privacy requirements. Here are three small steps that when added up have a significant impact on an organization's success.
 
@@ -77,7 +77,7 @@ There are many facets to personalization strategy and even more with regard to p
 
     _"One of my goals is to implement personalized content so subtly and streamlined, that the user doesn't even know it's happening. It just feels natural and aligns with their expectations. To see if it's working, we use feedback surveys to gauge how they feel about the personalized experiences and set KPIs to see if we are hitting the mark."_ - Shawn Wilkinson, Senior eCommerce Program Manager, Dick's Sporting Goods
 
-## Personalization & Privacy: Trends for 2022 and Beyond
+## Personalization & privacy: trends for 2022 and beyond
 
 A common question Adobe customers ask is what to expect and how to prepare in advance. For instance, are we trending towards this exchange of data and content becoming the norm? Is there a better way to approach that value exchange? Our experts weighed in on a few trends and patterns they are focused on.
 
@@ -93,7 +93,7 @@ A common question Adobe customers ask is what to expect and how to prepare in ad
 
   _"Over the last several years, we have been bringing our experiences on to Adobe Experience Manager (AEM). We pulled this together into a strategy we call our digital ecosystem. No matter where people come in, we provide a consistent experience with a single data layer so we can run personalization and data tracking across the experience. We started to realize things start to merge together. If we could rewind five years, we would have built those as one site. Interesting to see how experiences are starting to blend and how you can integrate them better."_ - Richard George, Global Head of Integrated Marketing, London Stock Exchange Group
 
-## 6 takeaways for balancing personalization and privacy
+## Six takeaways for balancing personalization and privacy
 
 1. **Vision** - make personalization part of your broader customer experience strategy
 1. **Clarity in use cases** - have the right people working on those use cases, take an agile approach to build on those use cases and then make them more complex
@@ -102,4 +102,4 @@ A common question Adobe customers ask is what to expect and how to prepare in ad
 1. **Privacy Workflow** - make privacy part of your workflow and build it into systems, so marketers can focus on being creative
 1. **Accountability** - Make your team accountable for how they can apply personalization in the context of the campaign or website they are building.
 
-For more information watch our Masters Roundtable webinar: [https://primetime.bluejeans.com/a2m/events/playback/931ffb97-b7f5-416a-89fc-23a5979f32a7](https://primetime.bluejeans.com/a2m/events/playback/931ffb97-b7f5-416a-89fc-23a5979f32a7)
+For more information watch our [Masters Roundtable webinar](https://primetime.bluejeans.com/a2m/events/playback/931ffb97-b7f5-416a-89fc-23a5979f32a7).
