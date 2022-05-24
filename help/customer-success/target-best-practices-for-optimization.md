@@ -83,7 +83,7 @@ A complete hypothesis has three parts:
 
     Here we ask, is the element on the page doing what it is supposed to do? Is the interaction successful and working as intended? Is the interaction natural, or a point of friction? The tactic used for function is to build experiences that are focused on easy-to-use functionality without additional cost impact.
 
-## Optimization vs Personalization
+## Optimization vs. personalization
 
 Now that we have analyzed and listed the components of strategy, it is important to draw a distinction between Optimization efforts and Personalization efforts. Optimization is the action of making the best or most effective use of a situation or resource, while Personalization is the action of designing or producing something to meet someone's individual requirements.
 
@@ -94,7 +94,7 @@ At a high level:
 
 When focusing on Optimization, the most common test activities are:
 
-* **A/B Testing:** Real time testing of two or more pages or page elements against each other to gain quantitative insight into customer preference.
+* **A/B testing:** Real time testing of two or more pages or page elements against each other to gain quantitative insight into customer preference.
 * **Multivariate testing:** Comparing combinations of offers among elements on a page to see which combination performs the best. In addition, the multivariate test will identify which element of the page best improves conversions.
 
 When focusing on Personalization you are likely to see the same testing activities as in Optimization, but they are geared to more specific audiences. For example, in A/B testing, you will likely add pages and audiences within the experiences to further your Personalization.
@@ -108,4 +108,4 @@ Personalization also includes the Experience Targeting test activity type, which
 
 Given the above understanding, Adobe recommends that you Optimize before you Personalize, and advance Personalization from broad to granular. To mature Personalization Activities from broad to granular, you will begin using a one-to-many personalization (broad) style (using A/B testing), then move into one-to-one personalization (granular) style (using Automated personalization activities).
 
-For more information, please listen to our webinar on understanding and optimizing your Adobe Target implementation, with Business Consultant, Katie Cozby: [https://adobecustomersuccess.adobeconnect.com/pkfafpzd9yarmp4/](https://adobecustomersuccess.adobeconnect.com/pkfafpzd9yarmp4/)
+For more information, please listen to [webinar on understanding and optimizing your Adobe Target implementation](https://adobecustomersuccess.adobeconnect.com/pkfafpzd9yarmp4/), with Business Consultant, Katie Cozby.

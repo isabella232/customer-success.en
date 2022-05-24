@@ -52,9 +52,9 @@ This is because driving speed in enterprise-level CMS is ultimately about conten
 
 Over and over, we've seen that the journey from a siloed model to a flexible and fast one comes from that initial and powerful voice in leadership. An understanding that to approach content lifecycle in a way requires a re-imaging of it through the team--from creator to tester. And that decision point--that realization--that driving content is not a question of what tool, but how we're conceiving it.
 
-"When you start to think about content in a different way, you bring different groups to the table that may not have been together. From product and development to customer led experience design, you innately have different parties to build those things. For us, internally, leadership support and buy-in was the single greatest factor for our digital transformation." - Monique Misrahi, T-Mobile
+_"When you start to think about content in a different way, you bring different groups to the table that may not have been together. From product and development to customer led experience design, you innately have different parties to build those things. For us, internally, leadership support and buy-in was the single greatest factor for our digital transformation."_ - Monique Misrahi, T-Mobile
 
-"Leadership support, direction, and vision was a critical factor. The fantastic thing was that our leadership was inclusive and open to input. They listened." - Amy Bergstrom, Deloitte
+_"Leadership support, direction, and vision was a critical factor. The fantastic thing was that our leadership was inclusive and open to input. They listened."_ - Amy Bergstrom, Deloitte
 
 ### Foundation
 
@@ -79,9 +79,9 @@ For many customers the best way to instill change is to create a mini site, a br
 * Increase the likelihood and speed of stakeholder buy-in
 * Solve the tactical nuts and bolts, and alleviate the gaps before reapplying the changes to scale
 
-"We changed our experience design organization to a more omni-channel view of the customer. We built a design systems framework team that is fully defining what our content components will be and how they'll be used. This has helped us get to a level of content velocity we couldn't imagine before." - Monique Misrahi, T-Mobile
+_"We changed our experience design organization to a more omni-channel view of the customer. We built a design systems framework team that is fully defining what our content components will be and how they'll be used. This has helped us get to a level of content velocity we couldn't imagine before."_ - Monique Misrahi, T-Mobile
 
-"We knew there was too much content coming out. So we did some research with our audience to find out if they were able to find our thought leadership pieces. It turned out there was confusion, so we took a unique approach, segmenting out all the best thinking in a pilot site and branding that content. We created a dedicated area for that content and cultivated a large audience for it. Several years later, we've now been able to reintegrate that into our broader website and now our thought leadership content helps carry people through the sales cycle." - Amy Bergstrom, Deloitte
+_"We knew there was too much content coming out. So we did some research with our audience to find out if they were able to find our thought leadership pieces. It turned out there was confusion, so we took a unique approach, segmenting out all the best thinking in a pilot site and branding that content. We created a dedicated area for that content and cultivated a large audience for it. Several years later, we've now been able to reintegrate that into our broader website and now our thought leadership content helps carry people through the sales cycle."_ - Amy Bergstrom, Deloitte
 
 ### Execution
 
@@ -129,9 +129,9 @@ Here are four milestones to build out during the execution phase:
 
     Look to create a team with clear usage guidelines as opposed to designing for the "edge." Beautiful simplicity is at the heart of content velocity. And don't forget to include Accessibility teams for everything that is designed and developed. A design system needs to find that balance between meeting a very particular experience and the flexibility to work in a systematic way within an enterprise CMS. Core Components and Style Systems are incredibly adaptive to a myriad of experiences and will allow more than enough freedom to meet the aesthetic ambitions of creators. Still, it is critical for speed and scale that a commonsense approach is applied when determining the execution of an experience. Some juggling of priorities is necessary. When designing a system look toward the fundamentals of reusability and speed.The vast majority of the experiences on a site should be executed using OOTB components and style systems.
 
-    "Mindset shift is needed around content. Many content practitioners have worked through the lens of channel-specific, or brand-specific, or page-specific content for their career. It's time to think holistically and allow time for that exploration." - Monique Misrahi, T-Mobile
+    _"Mindset shift is needed around content. Many content practitioners have worked through the lens of channel-specific, or brand-specific, or page-specific content for their career. It's time to think holistically and allow time for that exploration."_ - Monique Misrahi, T-Mobile
 
-    "Having a centralized content strategy helps us avoid duplication. We're not oversaturating the market, not saying different things on similar topics. It helps us optimize our full library of content, and speak with one consistent voice around the world." - Amy Bergstrom, Deloitte
+    _"Having a centralized content strategy helps us avoid duplication. We're not oversaturating the market, not saying different things on similar topics. It helps us optimize our full library of content, and speak with one consistent voice around the world."_ - Amy Bergstrom, Deloitte
 
 ## Recommended practices: Fast, reusable content creation model
 
@@ -143,11 +143,11 @@ Generally, speaking it is best to follow these rules of thumb:
 * Create richer experiences. By utilizing the 80/20 rule (per above), an organization can utilize specific CSS and back-end development for select experiences instead of common maintenance updates.
 * Opt for a scalable foundation and quick rebrand. Style systems that are executed based upon a modern implementation can allow for an efficient rebranding across one's platform. Updating wide sectors of content through changing CSS skins allows for quick testing and validation and increases the experiential quality of one's site with a direct impact on ROI.
 
-### Organization Modeling
+### Organization modeling
 
 There is no singular answer to what the staffing models of an AEM Sites implementation should look like. However, there are archetypes you should follow for a basic standard.
 
-AEM SItes: Basic Run & Operate
+AEM SItes: basic run & operate
 
 | Technical role | Technical responsibilities | Business responsibilities | Business role |
 | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ AEM SItes: Basic Run & Operate
 | Back end developer |<ul><li>Deep experiences not done through simple front-end CSS</li>Architectural oversight<li>Dynamic integrations/align with Product owner on strategic objectives</li></ul> |<ul><li>Assist content authors</li><li>Governance role</li><li>Coordinates launches, manages macro edits</li></ul> |Admin Author|
 | Release Manager |<ul><li>Release management</li><li>Code deploys</li></li>Current Customer Success Engineer</ul>|<ul><li>Applies content (including pre-created styles)</li>Tiered ownership<li>Delivers and communicates issues and concerns as they arise with CSM</li></ul> |Content Author |
 
-## Potential Pitfalls
+## Potential pitfalls
 
 Here are a few potential pitfalls to avoid:
 
@@ -166,6 +166,6 @@ Here are a few potential pitfalls to avoid:
   * Are we maximizing organic reach?
 * Is the experience accessible for everyone?
 
-* Viewing solutions in a siloed manner. For example, focusing solelyon the technical aspect of AEM implementation will not realize the full business benefits. Instead, we recommendlooking at business use cases and scenarios, then pivoting to architecture and design, as this will provide a greater view of AEM capabilities. Anurandha Pentareddy from Adobe shares: "One thing I advise is to look at your value objectives up front for the platform you are implementing."
+* Viewing solutions in a siloed manner. For example, focusing solelyon the technical aspect of AEM implementation will not realize the full business benefits. Instead, we recommendlooking at business use cases and scenarios, then pivoting to architecture and design, as this will provide a greater view of AEM capabilities. Anurandha Pentareddy from Adobe shares: _"One thing I advise is to look at your value objectives up front for the platform you are implementing."_
 
-For a more in-depth discussion of content velocity, listen to this one-hour panel discussion featuring Monique Misrahi (T-Mobile), Amy Bergstrom (Deloitte), and Adobe's Anuradha Pentareddy: [https://primetime.bluejeans.com/a2m/events/playback/e63686d4-158f-4f73-aea0-f03ebee4606d]
+For a more in-depth discussion of content velocity, listen to this one-hour [panel discussion](https://primetime.bluejeans.com/a2m/events/playback/e63686d4-158f-4f73-aea0-f03ebee4606d) featuring Monique Misrahi (T-Mobile), Amy Bergstrom (Deloitte), and Adobe's Anuradha Pentareddy.

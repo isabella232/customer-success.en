@@ -7,7 +7,7 @@ solution: Analytics
 
 In this article we'll start by discussing the importance of leveraging artificial intelligence and machine learning (AI/ML). Next we'll review benefits and real-world success stories from global customers using Virtual Analyst and Segment IQ to detect anomalies, avoid outliers, and maximize ROI.
 
-## The Value of Artificial Intelligence
+## The value of artificial intelligence
 
 Perhaps you recall the time chess champion Garry Kasparov was defeated by IBM's Deep Blue. Experts were convinced a machine could not possibly beat human decision making and judgment in a game as complex as chess. Yet, it was done and this was key to a fundamental shift in business strategy and technological innovation as the power of artificial intelligence was unearthed.
 
@@ -15,7 +15,7 @@ Adobe Analytics is the core system of intelligence for the experience business, 
 
 Adobe's AI tools are not here to replace you, but rather to enable you to achieve maximum ROI on your efforts.
 
-## Transform Your Analytics
+## Transform your analytics
 
 To evolve your analytics, we need to focus on three key considerations:
 

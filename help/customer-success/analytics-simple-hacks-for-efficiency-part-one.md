@@ -7,7 +7,9 @@ solution: Analytics
 
 **Part 1: Outside the UI**
 
-In this article describes key challenges analytics teams face today and our recommendations to overcome them using strategies outside the Adobe Analytics UI. For more information on in-tool strategies / live demo, click here: [link to demo or additional article with in-tool strategies]
+In this article describes key challenges analytics teams face today and our recommendations to overcome them using strategies outside the Adobe Analytics UI. 
+
+<!-- For more information on in-tool strategies / live demo, click here: [link to demo or additional article with in-tool strategies] -->
 
 ## Key challenges for Analytics teams
 
