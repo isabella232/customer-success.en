@@ -33,7 +33,7 @@ Analytics is challenging and time-consuming, yet there is a constant need to acc
 
 ## Master Customer Intelligence with Virtual Assistant, powered by Adobe Sensei
 
-![Customer Intelligence](assets\customer-intelligence.png)
+![Customer Intelligence](assets/customer-intelligence.png)
 
 ### 3 Levels of Customer Intelligence
 
@@ -45,7 +45,7 @@ When it comes to a successful customer intelligence strategy, we need to move th
 
 1. Analytics and machine learning includes Segment IQ, Virtual Analyst, Segmentation, Analysis Workspace
 
-![Virtual Analysis](assets\virtual-analysis.png)
+![Virtual Analysis](assets/virtual-analysis.png)
 
 ### Leverage your Virtual Analyst
 

@@ -9,7 +9,7 @@ solution: Analytics
 
 In this article, you'll learn the key challenges Analytics teams face today, and our recommendations to overcome them using in-tool strategies. 
 
-For more information on effective solutions outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC\_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+For more information on effective solutions outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
 
 ## Key Challenges for Analytics Teams
 
@@ -101,4 +101,4 @@ Use annotations to create in-product solution documentation references. Having i
 
 Leverage the reporting API to move standard reports from workspace to scheduled reports and dashboards. Additionally, take advantage of Analysis Workspace to build API requests.
 
-We hope you have found this article on in-tool strategies valuable. For more information on effective solutions to greater efficiency outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC\_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
+We hope you have found this article on in-tool strategies valuable. For more information on effective solutions to greater efficiency outside the Adobe Analytics platform click [here](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)
