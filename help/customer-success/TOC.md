@@ -2,7 +2,7 @@
 title: Strategies for customer success in Experience Cloud
 user-guide-title: Strategies for customer success in Adobe Experience Cloud
 user-guide-description: Learn the strategies and get expert advice to enable your success as a business leader using Adobe Experience Cloud.
-description: Learn the strategies and get expert advice to enable your success as a business leader using Adobe Experience Cloud
+description: Learn the strategies and get expert advice to enable your success as a business leader using Adobe Experience Cloud.
 ---
 # Strategies for customer success {#customer-success}
 
