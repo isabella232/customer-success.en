@@ -2,20 +2,31 @@
 title: Strategies for success
 description: Learn the strategies for success when leading business that is powered by Adobe Experience Cloud applications and services. Unlock the tools you have to build a road-map and create an efficient team.
 ---
-
 # Strategies for customer success
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-This guide offers the strategies and expert advice to enable your success as a business leader. Learn how to increase team efficiency and unlock the power of Adobe Experience Cloud applications and services in your organization.
+The Experience Cloud Customer Success Hub is Adobe’s suite of tools, resources, and thought leadership content, designed to keep you at the forefront of technological innovation and maximize your impact as a leader.
 
-Learn about:
+This site is for you if you:
 
-* Building highly effective teams in an ever-changing tech landscape.
-* Leveraging artificial intelligence and machine learning (AI/ML). See the benefits of real-world success stories from global .customers using Virtual Analyst and Segment IQ to maximize ROI
-* How AEM can empower designers, content authors, and developers in your organization.
-* Key challenges Analytics teams face today and our recommendations to overcome them using strategies outside the Adobe Analytics UI
-* Successfully executing a data-driven personalization strategy while navigating the complex and ever-evolving world of privacy compliance.
-* Improving your subscribers engagement and overall success of your email campaigns.
+* Want to guide your company towards innovation
+* Are focused on delivering improved experiences through new technology deployment while optimizing existing technology
+* Want to demonstrate and accelerate ROI from your Adobe technology solutions
+* Are looking for guidance and resources that are as forward thinking as you are
 
-And much more!
+What you’ll discover in the Customer Success Hub:
+
+**Thought leadership content** - stay up to date on best practices and hear first-hand from industry experts
+
+**Strategic guidance** - learn the latest tools and techniques in leading strategic transformation
+
+**Strategic Adoption** - help your team navigate the complexities of technology adoption
+
+**Executive Guides to Success** - everything you need to succeed as a leader as you get up to speed with your Adobe solutions
+
+**Value playbooks** - review step-by-step instructions and download practical worksheets on calculating, measuring and communicating value 
+
+**Value acceleration content & guidance** - get the most out of your technology solutions and discover ways to accelerate ROI
+
+**Calendar of Events** - register for our live webinar series, Masters Roundtable, and access on-demand recordings of past events
