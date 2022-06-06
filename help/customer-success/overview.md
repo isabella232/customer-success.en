@@ -1,12 +1,12 @@
 ---
-title: Strategies for success
+title: Strategy & thought leadership
 description: Learn the strategies for success when leading business that is powered by Adobe Experience Cloud applications and services. Unlock the tools you have to build a road-map and create an efficient team.
 ---
-# Experience Cloud Customer Success Hub
+# Experience Cloud Customer Success
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-The Experience Cloud Customer Success Hub is Adobe’s suite of tools, resources, and thought leadership content. It's designed to keep you at the forefront of technological innovation and to maximize your impact as a leader.
+The Experience Cloud Customer Success hub is Adobe’s suite of tools, resources, and thought leadership content. It's designed to keep you at the forefront of technological innovation and to maximize your impact as a leader.
 
 This site is for you if you:
 
