@@ -21,12 +21,12 @@ What you’ll discover in the Customer Success Hub:
 
 **Strategic guidance** - learn the latest tools and techniques in leading strategic transformation
 
-**Strategic Adoption** - help your team navigate the complexities of technology adoption
+**Strategic adoption** - help your team navigate the complexities of technology adoption
 
-**Executive Guides to Success** - everything you need to succeed as a leader as you get up to speed with your Adobe solutions
+**Executive guides to success** - everything you need to succeed as a leader as you get up to speed with your Adobe solutions
 
 **Value playbooks** - review step-by-step instructions and download practical worksheets on calculating, measuring and communicating value 
 
 **Value acceleration content & guidance** - get the most out of your technology solutions and discover ways to accelerate ROI
 
-**Calendar of Events** - register for our live webinar series, Masters Roundtable, and access on-demand recordings of past events
+**Calendar of events** - register for our live webinar series, Masters Roundtable, and access on-demand recordings of past events
