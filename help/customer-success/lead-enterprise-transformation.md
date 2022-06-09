@@ -1,13 +1,15 @@
 ---
 title: Leading enterprise transformation
-description: Six strategies for building highly effective teams in an ever-changing tech landscape 
+description: Six strategies for building highly effective teams in an ever-changing tech landscape. 
 solution: Experience Cloud
 ---
-# Leading enterprise transformation
+# Leading a transformation in your enterprise
 
-Six strategies for building highly effective teams in an ever-changing tech landscape
+Six strategies for building highly effective teams in an ever-changing tech landscape.
 
-As a transformational leader, we know how challenging it can be to build highly effective teams - from recruiting top talent and motivating employees, to managing meeting cadence, and leading agile product rollouts - it is a constantly evolving process with numerous considerations. In this article, we'll share thought leadership from two Adobe customers on best practices and key learnings from their own experience leading transformation during the COVID-19 pandemic.
+As a transformational leader, we know how challenging it can be to build highly effective teams - from recruiting top talent and motivating employees, to managing meeting cadence, and leading agile product rollouts - it is a constantly evolving process with numerous considerations. 
+
+In this article, we'll share thought leadership from two Adobe customers on best practices and key learnings from their own experience leading transformation during the COVID-19 pandemic.
 
 * Strategies for building highly effective teams in an evolving tech context
 * Managing global teams and the value of a center of excellence
@@ -17,7 +19,7 @@ As a transformational leader, we know how challenging it can be to build highly 
 * Motivating employees and tips on fighting burnout / meeting fatigue
 * Key learnings reiteration and what they might do differently
 
-"The world is changing and we have to change with it in order to continue delivering experiences that excite and delight customers." - Moya Jakobsson.
+_"The world is changing and we have to change with it in order to continue delivering experiences that excite and delight customers."_ - Moya Jakobsson.
 
 ## Build a Strong Foundation
 
@@ -72,7 +74,7 @@ We mentioned earlier the importance of having a vision and team buy-in at the st
 
 **Leadership Strategies In a Post-COVID World**
 
-"It's the little things that really make a difference during this time." - Moya Jakobsson
+_"It's the little things that really make a difference during this time."_ - Moya Jakobsson
 
 The global pandemic was devastating for workers at every level of the organization and leaders are faced with a number of ongoing issues, including:
 
@@ -91,4 +93,4 @@ The challenges above are part of a new reality, one that executives need to be p
 * Encourage team members in the same location to meet in person even if you can't be there yourself
 * Allow team members to not be in front of their screens during a meeting, encourage them to go for a walk while on the call if they would like
 
-For more information, watch our webinar with special guests Moya Jakobsson and Abhishek Arora: [https://primetime.bluejeans.com/a2m/events/playback/f4e3cd89-94e1-42f0-b4bc-4dcd1cf1571b](https://primetime.bluejeans.com/a2m/events/playback/f4e3cd89-94e1-42f0-b4bc-4dcd1cf1571b)
+For more information, watch our [webinar](https://primetime.bluejeans.com/a2m/events/playback/f4e3cd89-94e1-42f0-b4bc-4dcd1cf1571b) with special guests Moya Jakobsson and Abhishek Arora.

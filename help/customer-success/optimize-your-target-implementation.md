@@ -9,7 +9,7 @@ If you are new to your organization and want to become familiar with what is in 
 
 Adobe Target is a tool that allows testing and targeting of unique content to different visitors. For an overview of the features available, [visit this guide](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en).
 
-## Target Implementation and Structure
+## Target implementation and structure
 
 Before we dive into the implementation process for Adobe Target or how it is structured, it's helpful to first understand some fundamentals about the software.
 
@@ -17,23 +17,23 @@ Adobe Target is a tool that allows testing and targeting of unique content to di
 
 There are three Target fundamental activity types:
 
-1. A/B Test
-2. Multi-Variate Testing (MVT)
-3. Experience Testing
+1. A/B test
+2. Multivariate testing (MVT)
+3. Experience testing
 
-**The A/B Test** compares two or more experiences to see which best improves conversions throughout a pre-specified test period. The A/B test is a highly controlled experiment with traffic measurements, split by percentages rather than by a rule, allowing you:
+**The A/B test** compares two or more experiences to see which best improves conversions throughout a pre-specified test period. The A/B test is a highly controlled experiment with traffic measurements, split by percentages rather than by a rule, allowing you:
 
 * to analyze the test data.
 * to glean insights about your audience.
 * to determine which experience performs the best.
 
-**Multi-Variate Testing** (MVT) compares combinations of offers among elements on a page to see which combination performs the best for a specific audience. This test also identifies which element of the page best improves conversions throughout a pre-specified test period. MVT provides:
+**Multivariate testing** (MVT) compares combinations of offers among elements on a page to see which combination performs the best for a specific audience. This test also identifies which element of the page best improves conversions throughout a pre-specified test period. MVT provides:
 
 * A way to display multiple offers in multiple elements.
 * A method to test the resulting unique experience against a specific goal.
 * Insight as to which elements have the greatest negative or positive impact on visitor interactions.
 
-**Experience Testing** (Experienced Targeting) delivers content to a specific audience based on a set of marketer-defined rules and criteria. This method provides a way to target specific content to a specific audience based on a set of defined allocation rules.
+**Experience testing** (Experienced Targeting) delivers content to a specific audience based on a set of marketer-defined rules and criteria. This method provides a way to target specific content to a specific audience based on a set of defined allocation rules.
 
 How does Target work?
 
@@ -47,27 +47,27 @@ Here is a high-level example of how Target works:
 
 Target is built on an &quot;global Mbox&quot; that provides the ability to impact anything on the page. This feature deploys on page load either as a hardcoded link to the at.js file or it is delivered using a Tag Manager like Adobe Launch.
 
-## Understand Your Current Implementation
+## Understand your current implementation
 
 To understand your current Implementation, Adobe recommends that you review your Target User Interface implementation along with your Tag Manager and Page Load implementation.
 
-**To Review your Target User Interface:**
+**To review your [!DNL Target] user interface:**
 
-1. Begin your review on the Target UI:
+1. Begin your review on the [!DNL Target] UI:
 
-   * Review the Target technology stack
+   * Review the [!DNL Target] technology stack
    * Confirm the available features
    * Identify where the deployment is live
 
-1. Review activities for Best Practices:
+1. Review activities for best practices:
 
-   * Review historical Campaigns for program maturity
+   * Review historical campaigns for program maturity
 
-1. Deactivate Old Activities:
+1. Deactivate old activities:
   
-   * Archive and clean up Target Asset that no longer have current or future use
+   * Archive and clean up [!DNL Target] asset that no longer have current or future use
 
-1. Review Audiences.
+1. Review audiences.
 
 1. Review environment definitions and associated domains.
 
@@ -76,24 +76,24 @@ To understand your current Implementation, Adobe recommends that you review your
    * All profile scripts run on every target call
    * Maintain call efficiency by removing non applicable scripts
 
-To Review the Tag Manager and Page Load:
+To review the tag manager and page load:
 
-1. Confirm the following in Tag Manager:
+1. Confirm the following in tag manager:
   
-   * The deployment of the expected Target JavaScript code
+   * The deployment of the expected [!DNL Target] JavaScript code
    * The appropriate content hiding solution
-   * Set Necessary rules to populate the Target calls with the expected parameters
+   * Set Necessary rules to populate the [!DNL Target] calls with the expected parameters
 
 1. Confirm the following during page load:
   
-   * Matching version numbers for the Request URL and Target Request URL
+   * Matching version numbers for the request URL and [!DNL Target] Request URL
    * Populated Experienced Cloud ID value (Cloud Body)
-   * Present Expected Integration values (Cloud Body)
-   * Populated Target Parameters on the appropriate pages
+   * Present expected integration values (Cloud Body)
+   * Populated [!DNL Target] parameters on the appropriate pages
 
-## Target Audit Activities
+## [!DNL Target] audit activities
 
-To avoid manually going through each page to audit Target activities, use the Adobe Auditor to help with understanding the current technical state of your implementation. Adobe Auditor is powered by ObservePoint and can be set up to run at a manual level, to identify high level implementation issues on your site.
+To avoid manually going through each page to audit [!DNL Target] activities, use the Adobe Auditor to help with understanding the current technical state of your implementation. Adobe Auditor is powered by ObservePoint and can be set up to run at a manual level, to identify high level implementation issues on your site.
 
 The Adobe Auditor provides:
 
@@ -107,7 +107,7 @@ Adobe recommends performing monthly manual audits to:
 * Find out-of-date versions
 * Provide detailed information that can be exported
 
-## Common Troubleshooting
+## Common troubleshooting
 
 >[!NOTE]
 >
@@ -115,21 +115,21 @@ Adobe recommends performing monthly manual audits to:
 
 The following are general troubleshooting tips when entering the Experience:
 
-### Cache and Cookies**
+### Cache and cookies**
 
-* Clearing Cache and cookies
-* Be careful using Private mode (for example: Private mode in Firefox can block Target)
+* Clearing cache and cookies
+* Be careful using private mode (for example: private mode in Firefox can block [!DNL Target])
 
 ### Are you qualified for the activity?
 
 * Check that you have performed the same steps that the audience used in the activity
-* Use mboxTrace or response tokens to check profile and segment values
+* Use `mboxTrace` or response tokens to check profile and segment values
 
 ### General troubleshooting tips when validating visual/ functional
 
-If are in the Target experience and you do not see the expected visual experience:
+If are in the [!DNL Target] experience and you do not see the expected visual experience:
 
-Check the Target response:
+Check the [!DNL Target] response:
 
 * If the code is not executed:
 
@@ -140,19 +140,19 @@ Check the Target response:
 
 1. Re-work the code in that scenario
 
-## Maintaining a Knowledge Repository
+## Maintaining a knowledge repository
 
-A Knowledge Repository is an online platform used for documenting and sharing information. The Knowledge Repository contains information specific to your implementation and can contain team specific information.
+A knowledge repository is an online platform used for documenting and sharing information. The knowledge repository contains information specific to your implementation and can contain team specific information.
 
 Ideally, the repository should allow editing and auto saving within the platform. Once it is initially configured, it is easy to maintain and keep up to date. Content within the Knowledge Repository is curated based on user roles.
 
 Typical documents in a Knowledge Repository include:
 
 * **Overview document** - a document used to clearly explain program goals, objectives, processes and structure
-* **Ideation Repository** - a document used to manage and prioritize potential ideas that are not ready for the testing process
-* **Program Roadmap** - a document used to manage all aspects of testing activities once ideas are ready to start the testing process
-* **Activity Plan Document** - a document used to outline information needed to build and launch activities
-* **Activity Plan Document** - a document used to communicate results and recommended next steps to stakeholders
-* **Program Dashboard** - a document used to track program performance, cadence, and revenue benefits over time.
+* **Ideation repository** - a document used to manage and prioritize potential ideas that are not ready for the testing process
+* **Program roadmap** - a document used to manage all aspects of testing activities once ideas are ready to start the testing process
+* **Activity plan document** - a document used to outline information needed to build and launch activities
+* **Activity plan document** - a document used to communicate results and recommended next steps to stakeholders
+* **Program dashboard** - a document used to track program performance, cadence, and revenue benefits over time.
 
-For more information, review our webinar with Senior Consultant, Wilder Freed: [https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/](https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/)
+For more information, review our [webinar](https://adobecustomersuccess.adobeconnect.com/p4p7xlp7dh42mp4/) with Senior Consultant, Wilder Freed.

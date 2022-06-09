@@ -16,7 +16,7 @@ AEM Style Systems have four key benefits:
 * Components and templates are made more flexible by empowering authors to render alternative visual variations
 * The need to develop a custom component and/or complex dialogs to present component variations is reduced or eliminated completely
 
-## Initial Setup and Use
+## Initial setup and use
 
 The 5-step setup is very similar to a standard component development workflow.
 
@@ -45,7 +45,7 @@ Style systems come in a few different flavors:
 
 >[!NOTE]
 >
->For a demo of these features, we recommend watching our Customer Success webinar with Will Brisbane and Joseph Van Buskirk: [https://adobecustomersuccess.adobeconnect.com/pob610c9mffjmp4/](https://adobecustomersuccess.adobeconnect.com/pob610c9mffjmp4/)
+>For a demo of these features, we recommend watching our [Customer Success webinar](https://adobecustomersuccess.adobeconnect.com/pob610c9mffjmp4/) with Will Brisbane and Joseph Van Buskirk.
 
 ## Best practices
 
@@ -83,4 +83,4 @@ Things are simply cleaner. The HTML within the core components is highly verbose
 
 Finally, the use of Style Systems is more art than science. As we discussed, there are a number of best practices, but you will have flexibility in how customize your organization&#39;s setup.
 
-For more information, check out our [Customer Success Webinar](https://adobecustomersuccess.adobeconnect.com/pob610c9mffjmp4/) with Will Brisbane and Joseph Van Buskirk
+For more information, check out our [Customer Success Webinar](https://adobecustomersuccess.adobeconnect.com/pob610c9mffjmp4/) with Will Brisbane and Joseph Van Buskirk.
