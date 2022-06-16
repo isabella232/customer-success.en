@@ -1,6 +1,7 @@
 ---
 title: Strategy & thought leadership
 description: Learn the strategies for success when leading business that is powered by Adobe Experience Cloud applications and services. Unlock the tools you have to build a road-map and create an efficient team.
+mini-toc-levels: 2
 ---
 # Experience Cloud Customer Success
 
@@ -31,9 +32,9 @@ What you’ll discover in the Customer Success Hub:
 
 **Calendar of events** - register for our live webinar series, Masters Roundtable, and access on-demand recordings of past events
 
-## Strategy & thought leadership publications
+## Product focused publications from Customer Success
 
-New Customer Success articles published in product self-help on Experience League:
+New Customer Success articles published in product tutorials:
 
 * [Analytics - Part one - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-one.html?lang=en)
 * [Analytics - Part two - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-two.html?lang=en)

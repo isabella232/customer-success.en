@@ -12,4 +12,3 @@ description: Learn the strategies and get expert advice to enable your success a
 + [Experience Manager - Governance and staffing models and archetypes](experience-manager-governance-and-staffing-models.md)
 + [How to drive content velocity with Adobe Experience Manager](drive-content-velocity-for-sites.md)
 + [Accelerate content velocity with AEM style systems](accelerate-content-velocity-aem.md)
-
