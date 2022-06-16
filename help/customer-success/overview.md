@@ -30,3 +30,12 @@ What you’ll discover in the Customer Success Hub:
 **Value acceleration content & guidance** - get the most out of your technology solutions and discover ways to accelerate ROI
 
 **Calendar of events** - register for our live webinar series, Masters Roundtable, and access on-demand recordings of past events
+
+## Strategy & thought leadership publications
+
+New Customer Success articles published in product self-help on Experience League:
+
+* [Analytics - Part one - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-one.html?lang=en)
+* [Analytics - Part two - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-two.html?lang=en)
+* [Analytics - Mastering customer intelligence with Virtual Analyst and Segment IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/customer-intelligence-with-virtual-analyst.html?lang=en)
+* [Campaign - Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)

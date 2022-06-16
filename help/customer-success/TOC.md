@@ -12,10 +12,4 @@ description: Learn the strategies and get expert advice to enable your success a
 + [Experience Manager - Governance and staffing models and archetypes](experience-manager-governance-and-staffing-models.md)
 + [How to drive content velocity with Adobe Experience Manager](drive-content-velocity-for-sites.md)
 + [Accelerate content velocity with AEM style systems](accelerate-content-velocity-aem.md)
-+ [Quick start for personalization testing and road-map creation](create-personalization-roadmap-testing-plan.md)
-+ [Best practices for optimization with Adobe Target](target-best-practices-for-optimization.md)
-+ [Optimize your Adobe Target implementation](optimize-your-target-implementation.md)
-+ [Analytics - Part one - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-one.html?lang=en)
-+ [Analytics - Part two - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-two.html?lang=en)
-+ [Analytics - Mastering customer intelligence with Virtual Analyst and Segment IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/customer-intelligence-with-virtual-analyst.html?lang=en)
-+ [Campaign - Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+
