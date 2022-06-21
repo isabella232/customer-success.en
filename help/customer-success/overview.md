@@ -41,3 +41,6 @@ New Customer Success articles published in product tutorials:
 * [Analytics - Part two - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-two.html?lang=en)
 * [Analytics - Mastering customer intelligence with Virtual Analyst and Segment IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/customer-intelligence-with-virtual-analyst.html?lang=en)
 * [Campaign - Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+* [Quick start for personalization testing and road-map creation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html?lang=en)
+* [Best practices for optimization with Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html?lang=en)
+* [Optimize your Adobe Target implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/optimize-your-target-implementation.html?lang=en)
