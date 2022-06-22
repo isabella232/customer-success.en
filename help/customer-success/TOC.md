@@ -9,6 +9,3 @@ description: Learn the strategies and get expert advice to enable your success a
 + [Overview](overview.md)
 + [Adobe Masters Roundtable - Balance personalization and privacy](adobe-masters-roundtable-balancing-personalization.md)
 + [Leading a transformation in your enterprise](lead-enterprise-transformation.md)
-+ [Experience Manager - Governance and staffing models and archetypes](experience-manager-governance-and-staffing-models.md)
-+ [How to drive content velocity with Adobe Experience Manager](drive-content-velocity-for-sites.md)
-+ [Accelerate content velocity with AEM style systems](accelerate-content-velocity-aem.md)

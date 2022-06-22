@@ -37,10 +37,24 @@ What you’ll discover in the Customer Success Hub:
 
 New Customer Success articles published in product tutorials:
 
+### Adobe Experience Manager
+
+* [AEM - Governance and staffing models & archetypes](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/strategy/experience-manager-governance-and-staffing-models.html?lang=en)
+* [AEM - How to drive content velocity with Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/strategy/drive-content-velocity-for-sites.html?lang=en)
+* [Accelerate content velocity with AEM style systems](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/strategy/accelerate-content-velocity-aem.html?lang=en)
+
+### Adobe Analytics
+
 * [Analytics - Part one - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-one.html?lang=en)
 * [Analytics - Part two - Simple hacks for greater efficiency and self-service](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/analytics-simple-hacks-for-efficiency-part-two.html?lang=en)
 * [Analytics - Mastering customer intelligence with Virtual Analyst and Segment IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/strategy/customer-intelligence-with-virtual-analyst.html?lang=en)
+
+### Adobe Campaign
+
 * [Campaign - Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+
+### Adobe Target
+
 * [Quick start for personalization testing and road-map creation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html?lang=en)
 * [Best practices for optimization with Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html?lang=en)
 * [Optimize your Adobe Target implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/optimize-your-target-implementation.html?lang=en)
