@@ -1,6 +1,6 @@
 ---
-title: Strategy & thought leadership
-description: Learn the strategies for success when leading business that is powered by Adobe Experience Cloud applications and services. Unlock the tools you have to build a road-map and create an efficient team.
+title: Customer Success
+description: Learn strategies and thought leadership for success when leading business that is powered by Adobe Experience Cloud applications and services. Unlock the tools you have to build a road-map and create an efficient team.
 mini-toc-levels: 2
 exl-id: d9b6d092-c068-43a6-b33f-d38575f00e5a
 ---
